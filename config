@@ -1,0 +1,5 @@
+#!/bin/bash
+
+ONEX_SOURCE=
+ONEX_NAME=${ONEX_NAME:-ONex}
+ONEX_IMAGE=${ONEX_IMAGE:-php:5.5-apache}
